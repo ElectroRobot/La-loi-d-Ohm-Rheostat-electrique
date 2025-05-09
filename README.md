@@ -1,6 +1,6 @@
 # La loi d'Ohm - Rhéostat électrique
 
-Ce repository enregistre l'ensemble des projet LTSpice XVII créé pour le TD  proposés par Electro Robot : la loi d'Ohm pour les Rhéostat électrique.
+Ce repository enregistre l'ensemble des projet LTSpice XVII créé pour le TD  proposé par Electro Robot : la loi d'Ohm pour les Rhéostat électrique.
 Plus de détails, vous pouvez vous faire référence à : <a href="https://electro-robot.com/les-activites/la-loi-ohm-rheostat-electrique" rel="dofollow">La loi d'Ohm - Rhéostat électrique</a>
 
 # C'est quoi l'apprentissage avec Electro-Robot ?
